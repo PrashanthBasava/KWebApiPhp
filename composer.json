@@ -6,5 +6,6 @@
     "autoload": {
         "psr-4": { "Khash\\" : "KhashLibPhp/SwaggerClient-php/lib/" }
     },    
-    "require": { }
+    "require": { "mortezarajabi/jdate" : "dev-master" },
+    "minimum-stability": "dev"
 }
