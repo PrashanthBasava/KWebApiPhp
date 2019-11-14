@@ -5,10 +5,10 @@
     "license": "MIT",
     
     "autoload": {
-        "psr-4": { "Khash\\" : "SwaggerClient-php/lib/" }
+        "psr-4": { "Khash\\" : "KhashLibPhp/SwaggerClient-php/lib/" }
     },
     "autoload-dev": {
-        "psr-4": { "Khash\\" : "SwaggerClient-php/test/" }
+        "psr-4": { "Khash\\" : "KhashLibPhp/SwaggerClient-php/test/" }
     },
     "require": { }
 }
