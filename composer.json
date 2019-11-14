@@ -1,0 +1,14 @@
+{
+    "name": "prashanth.b/kphpapi-lib",
+    "description": "prashanth test file",
+    "type": "library",
+    "license": "MIT",
+    
+    "autoload": {
+        "psr-4": { "Khash\\" : "SwaggerClient-php/lib/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "Khash\\" : "SwaggerClient-php/test/" }
+    },
+    "require": { }
+}
